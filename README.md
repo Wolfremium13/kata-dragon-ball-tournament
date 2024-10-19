@@ -6,7 +6,7 @@
 
 The latest Dragon Ball video game is here! It's called Dragon Ball: Sparking! ZERO. Simulate a Martial Arts Tournament,
 in the purest style of the saga, where different fighters will participate, and the system will decide who the winner
-is.
+is using Test Driven Development (TDD).
 
 ### 🥋 Fighters
 
