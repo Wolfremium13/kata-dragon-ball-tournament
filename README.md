@@ -13,14 +13,15 @@ is using Test Driven Development (TDD).
 - Name.
 - Three attributes: speed, attack, and defense (with values ranging from 0 to 100 that you will choose).
 - Each fighter starts a battle with 100 health.
-
-### 🥊 Battle
-
-- Each battle is between 2 fighters.
-- The fighter with the highest speed starts attacking.
+- The fighter could attack, defend, or dodge.
 - Damage is calculated by subtracting the defender's defense from the attacker's attack power.
 - The opponent always has a 20% chance to dodge the attack.
 - If the defense is higher than the attack, they receive only 10% of the attack damage.
+
+### 🥊 Battle
+
+- The fighter with the highest speed starts attacking.
+- Each battle is between 2 fighters.
 - After each turn and attack, the opponent loses health.
 - The battle ends when a fighter loses all their health.
 
